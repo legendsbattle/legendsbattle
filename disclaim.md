@@ -1,8 +1,8 @@
 # Disclaim
 
-THIS DOCUMENT PROVIDES AN INITIAL SUMMARY OF THE LEGENDSBATTLE PROJECT. AS THE PROJECT PROCEEDS, THIS DOCUMENT IS EXPECTED TO EVOLVE OVER TIME. THE LEGENDSBATTLE TEAM MAY POST MODIFICATIONS, REVISIONS, AND/OR UPDATED DRAFTS UNTIL THE FINAL DOCUMENT IS PRESENTED PRIOR TO THE DATE OF THE PUBLIC BETA.
+This Document Provides An Initial Summary Of The Legendsbattle Project. As The Project Proceeds, This Document Is Expected To Evolve Over Time. The Legendsbattle Team May Post Modifications, Revisions, And/or Updated Drafts Until The Final Document Is Presented Prior To The Date Of The Public Beta.
 
-THIS WHITEPAPER SETS FORTH A DESCRIPTION OF THE PLANNED USE OF THE LEGENDSBATTLE TOKEN. THIS IS BEING PROVIDED FOR INFORMATION PURPOSES ONLY AND IS NOT A BINDING LEGAL AGREEMENT. THE LEGENDSBATTLE BETA WILL BE GOVERNED BY SEPARATE TERMS & CONDITIONS.
+This Whitepaper Sets Forth A Description Of The Planned Use Of The Legendsbattle Token. This Is Being Provided For Information Purposes Only And Is Not A Binding Legal Agreement. The Legendsbattle Beta Will Be Governed By Separate Terms & Conditions.
 
-IN THE EVENT OF A CONFLICT BETWEEN THE TERMS & CONDITIONS AND THIS WHITEPAPER, THE TERMS & CONDITIONS GOVERN. THIS WHITEPAPER IS NOT AN OFFERING DOCUMENT OR PROSPECTUS, AND IS NOT INTENDED TO PROVIDE THE BASIS OF ANY INVESTMENT DECISION OR CONTRACT.
+In The Event Of A Conflict Between The Terms & Conditions And This Whitepaper, The Terms & Conditions Govern. This Whitepaper Is Not An Offering Document Or Prospectus, And Is Not Intended To Provide The Basis Of Any Investment Decision Or Contract.
 
