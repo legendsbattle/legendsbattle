@@ -1,6 +1,6 @@
 # The LBT Native Token and Tokenomics
 
-![](.gitbook/assets/round.png)
+![](.gitbook/assets/10.png)
 
 Within the Legends Battle network, there is a native token, dubbed LBT, that fuels services within the game and the platform at large. The token helps in different activities, including providing rewards to the investors.
 
