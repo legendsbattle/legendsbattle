@@ -1,5 +1,7 @@
 # The LBT Native Token and Tokenomics
 
+![](.gitbook/assets/round.png)
+
 Within the Legends Battle network, there is a native token, dubbed LBT, that fuels services within the game and the platform at large. The token helps in different activities, including providing rewards to the investors.
 
 The network has also set unique tokenomics and reward systems focused on the LBT token. First, it charges an 8% tax on every transaction. The network distributes the 8% tax as follows.
