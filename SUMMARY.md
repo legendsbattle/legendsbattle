@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Legends Battle whitepaper](README.md)
-* [Disclaim](disclaim.md)
+* [Disclaimer](disclaimer.md)
 * [Introduction](introduction.md)
 * [The Game Economy](the-game-economy.md)
 * [The Technical](the-technical.md)
