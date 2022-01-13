@@ -4,13 +4,13 @@
 
 \------------------------Stage 1 (Q4 2021 / Q1 2022) -----------------------------
 
-* Deployment of the LBT token on the Binance Smart Chain test-net
-* Launching the online website with the basics about LEGENDSBATTLE, releasing the Presentation paper.
-* Open-Source release of the LEGENDSBATTLE codebase on our GitHub repository     and the different smart contracts.
-* Auditing our different smart contracts by the Solidproof
+* Deployment of the LBT token on the Binance Smart Chain test-net.  :thumbsup:
+* Launching the online website with the basics about LEGENDSBATTLE, releasing the Presentation paper.:thumbsup:
+* Open-Source release of the LEGENDSBATTLE codebase on our GitHub repository and the different smart contracts.:thumbsup:
+* Auditing our different smart contracts by the Solidproof .:thumbsup:
 * Doing KYC procedures of the LEGENDSBATTLE Team members.
 * Listing over CoinMarketCap, CoinGecko
-* Huge Marketing Campaign
+* Huge Marketing Campaign:thumbsup:
 * Presale Launch and Liquidity Locked
 *   Releasing the Teaser for the launch of the LEGENDSBATTLE Alpha.
 
